@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>ttp://54.90.78.227:8081/repository/lady_B_dev_snapshot/</url>
+	      <url>http://54.90.78.227:8081/repository/lady_B_dev_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
